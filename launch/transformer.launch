@@ -1,0 +1,3 @@
+<launch>
+    <node name="transformer_node" pkg="my_tf_transformer" type="transformer" output="screen" required="true"/>
+</launch>
